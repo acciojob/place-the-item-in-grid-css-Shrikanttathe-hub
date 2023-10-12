@@ -1,6 +1,6 @@
 .holder {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);  /* Two equal columns */
+    grid-template-columns: 100px 100px;  /* Two equal columns */
     grid-template-rows: repeat(2, 1fr);     /* Two equal rows */
     width: 200px;                           /* Total size of 200px */
     gap: 5px;                               /* Adjust the gap between grid items as needed */
